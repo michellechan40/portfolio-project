@@ -1,0 +1,14 @@
+body {
+  background: lightblue;
+}
+
+h1 {
+  color: white;
+  font-family: "Playfaor Display", serif;
+  font-weight: bold;
+}
+
+p {
+  font-family: "Poppins", serif;
+  font-weight: normal;
+}
