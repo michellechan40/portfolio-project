@@ -150,3 +150,7 @@ p {
 .work-description {
   font-size: 38px;
 }
+
+.email {
+  text-align: center;
+}
