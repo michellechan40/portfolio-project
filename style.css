@@ -95,6 +95,7 @@ p {
     font-size: 44px;
     line-height: 2;
   }
+}
 
   h2 {
     font-size: 44px;
@@ -146,3 +147,6 @@ p {
   padding: 0;
 }
 
+.work-description {
+  font-size: 38px;
+}
