@@ -147,11 +147,3 @@ p {
   padding: 0;
 }
 
-nav li {
-display: inline;
-list-style: none;
-}
-
-nav ul {
-  margin: 0;
-}
