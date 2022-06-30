@@ -147,10 +147,11 @@ p {
   padding: 0;
 }
 
-.work-description {
-  font-size: 38px;
+nav li {
+display: inline;
+list-style: none;
 }
 
-.email {
-  text-align: center;
+nav ul {
+  margin: 0;
 }
